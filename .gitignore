@@ -1,0 +1,15 @@
+# Chặn rác Backend
+backend/node_modules/
+backend/.env
+
+# Chặn rác Flutter
+mobile/build/
+mobile/.dart_tool/
+mobile/.pub/
+mobile/.packages
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+# Chặn rác Arduino
+firmware/*.bin
+firmware/*.elf

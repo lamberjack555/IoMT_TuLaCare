@@ -1,0 +1,16 @@
+{
+  "name": "backend-iot-server",
+  "version": "1.0.0",
+  "description": "Backend for IoT Fall Detection System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.6.3",
+    "mqtt": "^5.1.2"
+  }
+}
